@@ -8,10 +8,10 @@ _a data that we make for a blog project_
 ## _Table of Contents_
 
 1. [Installation](#Installation)
-2. [Project Motivation](#Project Motivation)
-3. [File Descriptions](#File Describtion)
+2. [Project Motivation](#ProjectMotivation)
+3. [File Descriptions](#FileDescribtion)
 4. [Results](#Results)
-5. [Licensing, Authors, and Acknowledgements](#Licensing, Authors, and Acknowledgements)
+5. [Licensing, Authors, and Acknowledgements](#Licensing,Authors,andAcknowledgements)
 
 ## _Installation_
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.

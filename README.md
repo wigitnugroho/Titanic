@@ -16,7 +16,7 @@ _a data that we make for a blog project_
 ## _Installation_
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
 
-## _Project Motivation_
+## _Project Motivation_<a name="ProjectMotivation"></a>
 For this project, I was interestested in using Titanic Data from Kaggle to better understand:
 
 1. How to find out how many people were on the Titanic

@@ -7,7 +7,7 @@ _a data that we make for a blog project_
 
 ## _Table of Contents_
 
-1. [Installation]()
+1. [Installation](#Installation)
 2. [Project Motivation]()
 3. [File Descriptions]()
 4. [Results]()

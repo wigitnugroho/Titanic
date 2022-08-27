@@ -24,14 +24,14 @@ For this project, I was interestested in using Titanic Data from Kaggle to bette
 3. Who survived the sinking of the Titanic?
 4. What is the fare paid by passengers to board the Titanic?
   
-## _File Descriptions_
+## _File Descriptions_<a name="FileDescribtion"></a>
 
 There is a notebook available here to showcase the work related to the above question. Each of these notebooks is exploratory in looking for data related to the questions presented by the title of the notebook.
 
 ## _Results_
 The main findings of the code can be found at the post available here.
 
-## _Licensing, Authors, Acknowledgements_
+## _Licensing, Authors, Acknowledgements_<a name="Licensing,Authors,andAcknowledgements"></a>
 Must give credit to Titanic for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/). Otherwise, feel free to use the code here as you would like!
 
 
